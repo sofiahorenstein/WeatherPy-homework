@@ -4,11 +4,7 @@ In this assignment, I created a Python script to visualize the weather of about 
 
 In my analysis I built a series of scatter plots to showcase the following relationships:
 
-Temperature (F) vs. Latitude
-Humidity (%) vs. Latitude
-Cloudiness (%) vs. Latitude
-<<<<<<< HEAD
-Wind Speed (mph) vs. Latitude
-=======
-Wind Speed (mph) vs. Latitude
->>>>>>> ed46723e8a3f170401bf4b33e09b0ff7a70f6365
+1. Temperature (F) vs. Latitude
+2. Humidity (%) vs. Latitude
+3. Cloudiness (%) vs. Latitude
+4. Wind Speed (mph) vs. Latitude
