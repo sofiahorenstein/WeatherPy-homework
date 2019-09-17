@@ -7,4 +7,8 @@ In my analysis I built a series of scatter plots to showcase the following relat
 Temperature (F) vs. Latitude
 Humidity (%) vs. Latitude
 Cloudiness (%) vs. Latitude
+<<<<<<< HEAD
 Wind Speed (mph) vs. Latitude
+=======
+Wind Speed (mph) vs. Latitude
+>>>>>>> ed46723e8a3f170401bf4b33e09b0ff7a70f6365
